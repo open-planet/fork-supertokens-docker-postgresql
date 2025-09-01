@@ -1,0 +1,14 @@
+name: fork-supertokens-docker-postgresql
+id: ari:cloud:compass:1c393137-afb0-4cd8-b22d-b0f89c4f4548:component/e8bc4b74-70e2-4857-9f13-2f503a5e3f9b/f95ed763-9469-4dd6-8208-678ddfdf0697
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:shell
+  - source:github
+customFields: null
